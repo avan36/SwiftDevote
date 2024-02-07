@@ -5,15 +5,16 @@ This is a to-do list app where the user can easily add items, delete, them, and 
 
 ## What the app looks like
 ### Moving around the app 
+![trim E6E088B4-84FB-4092-93C6-1CCDB646DA03](https://github.com/avan36/SwiftDevote/assets/158532304/67f9797f-1aae-46c0-b109-2136847995f2)
 
 ### Main view
-![Simulator Screenshot - iPhone 15 - 2024-02-07 at 14 18 01](https://github.com/avan36/SwiftDevote/assets/158532304/8818c3c2-cdff-4d3b-b101-68fd181aeb2c)
+![Simulator Screenshot - iPhone 15 - 2024-02-07 at 14 18 01](https://github.com/avan36/SwiftDevote/assets/158532304/50a32d11-69af-4b5e-8548-8080a2c98878)
 
 ### Adding task view
-![Simulator Screenshot - iPhone 15 - 2024-02-07 at 14 19 05](https://github.com/avan36/SwiftDevote/assets/158532304/e62c7a21-0c60-4d0e-a69e-c887461dfcc9)
+![Simulator Screenshot - iPhone 15 - 2024-02-07 at 14 19 05](https://github.com/avan36/SwiftDevote/assets/158532304/68e769e4-d18d-4b9d-8bed-b4ee3fa9494c)
 
 ### Completing task
-![Simulator Screenshot - iPhone 15 - 2024-02-07 at 14 19 11](https://github.com/avan36/SwiftDevote/assets/158532304/1a3e5695-e354-40b1-8387-4aaca0194523)
+![ o](https://github.com/avan36/SwiftDevote/assets/158532304/73395621-aee6-4a86-b9d7-ccb87bfa76b4)
 
 ### Dark mode
-![Simulator Screenshot - iPhone 15 - 2024-02-07 at 14 19 28](https://github.com/avan36/SwiftDevote/assets/158532304/43a09af8-fdb9-4645-ade4-beb252f5c427)
+![Simulator Screenshot - iPhone 15 - 2024-02-07 at 14 19 28](https://github.com/avan36/SwiftDevote/assets/158532304/4a9f396b-4f3f-4671-8c2d-b49fdc895834)
