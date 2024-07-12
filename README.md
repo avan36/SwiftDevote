@@ -1,5 +1,3 @@
-Learning SwiftUI from this course: https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/
-
 ## Goals
 This is a to-do list app where the user can easily add items, delete, them, and check them off their to-do list
 
